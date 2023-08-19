@@ -21,8 +21,6 @@
 </div>
 
 #
-![Barcelos GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseBarceloss&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBarceloss&layout=compact&theme=dark)
 
 ##  📫 Contact
 <div  align="left"> 
