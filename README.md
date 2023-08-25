@@ -31,5 +31,5 @@
   
 </div>
 
-<p>Meus commits estão privados devido ao meu contrato com a Trybe, portanto, eles não estarão visíveis temporariamente. Assim que eu concluir o módulo de Back-End, trarei repositórios com os meus projetos ao longo da Trybe.</p>
+<p>Meus commits e repositorio estão privados devido ao meu contrato com a Trybe, portanto, eles não estarão visíveis temporariamente. Assim que eu concluir o módulo de Back-End, trarei repositórios com os meus projetos ao longo da Trybe.</p>
 
