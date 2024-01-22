@@ -50,7 +50,6 @@
 </div>
 
 <h5>Se você estiver avaliando meu portfólio, agradeço por sua atenção. Organizei-o de maneira que seja fácil para você encontrar e visualizar os aspectos específicos de seu interesse. Basta <a href="https://github.com/JoseBarceloss?tab=stars" target="_blank">clicar aqui</a> ou na estrela ⭐ acima, ao lado de 'Packages', para acessar meus repositórios favoritos.</h5>
-
  
 <br>
 Criei listas para facilitar a navegação: <br>
