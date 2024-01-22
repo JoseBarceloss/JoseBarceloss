@@ -49,17 +49,17 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-#
+<h5>Se você estiver avaliando meu portfólio, agradeço por sua atenção. Organizei-o de maneira que seja fácil para você encontrar e visualizar os aspectos específicos de seu interesse. Basta clicar na estrela ⭐ acima, ao lado de 'Packages', para acessar meus repositórios favoritos. <br>
 
-##  📫 Contact
-<div  align="left"> 
- <a  href="https://discord.com" target="_blank"><img   src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a  href = "mailto:barcelosps41710@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9domingos/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  #
-  
-</div>
+Criei listas para facilitar a navegação: <br>
 
-<p>Meus commits e repositorio estão privados devido ao meu contrato com a Trybe, portanto, eles não estarão visíveis temporariamente. Assim que eu concluir o módulo de Back-End, trarei repositórios com os meus projetos ao longo da Trybe.</p>
+Back-End 👁‍🗨<br>
+Projeto ⭐<br>
+Exercise 🤓<br>
+Front-End 🖼<br>
 
+Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise'; embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.
+
+Agradeço novamente por dedicar seu tempo à análise do meu portfólio. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição.</h5>
+
+<h6>Alguns projetos estão sem CSS devido à rotina corrida da Trybe. Projetos toda semana, todo dia aprendendo algo novo e uma rotina de estudos de mais de 8 horas. Assim que eu terminar a Trybe, estarei estilizando as páginas. <h6>
