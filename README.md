@@ -49,15 +49,17 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-<h5>Se você estiver avaliando meu portfólio, agradeço por sua atenção. Organizei-o de maneira que seja fácil para você encontrar e visualizar os aspectos específicos de seu interesse. Basta clicar na estrela ⭐ acima, ao lado de 'Packages', para acessar meus repositórios favoritos. <br>
-
+<h5>Se você estiver avaliando meu portfólio, agradeço por sua atenção. Organizei-o de maneira que seja fácil para você encontrar e visualizar os aspectos específicos de seu interesse. Basta clicar na estrela ⭐ acima, ao lado de 'Packages', para acessar meus repositórios favoritos.<br>
+ 
+<br>
 Criei listas para facilitar a navegação: <br>
 
+<br>
 Back-End 👁‍🗨<br>
 Projeto ⭐<br>
 Exercise 🤓<br>
 Front-End 🖼<br>
-
+<br>
 Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise'; embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.
 
 Agradeço novamente por dedicar seu tempo à análise do meu portfólio. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição.</h5>
