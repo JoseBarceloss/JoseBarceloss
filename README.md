@@ -60,6 +60,6 @@ Front-End 🖼<br>
 <br>
 Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise'; embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.
 
-Agradeço novamente por dedicar seu tempo à análise do meu portfólio. Caso tenha alguma dúvida ou precise de mais informações, estou à disposição.</h5>
+Agradeço novamente por dedicar seu tempo à análise do meu portfólio. Caso tenha alguma dúvida ou precise de mais informações <a href="https://www.linkedin.com/in/jos%C3%A9domingos/" target="_blank">clicar aqui</a> e entre em contato comigo!</h5>
 
-<h6>"Alguns projetos estão sem estilização devido à intensa carga horária imposta pela Trybe. Com projetos toda semana e aprendizado diário, além de uma rotina de estudos que ultrapassa 8 horas por dia, o foco tem sido na funcionalidade. Assim que concluir meu curso na Trybe, pretendo adicionar a estilização necessária às páginas."<h6>
+<h6>Alguns projetos estão sem estilização devido à intensa carga horária imposta pela Trybe. Com projetos toda semana e aprendizado diário, além de uma rotina de estudos que ultrapassa 8 horas por dia, o foco tem sido na funcionalidade. Assim que concluir meu curso na Trybe, pretendo adicionar a estilização necessária às páginas.<h6>
