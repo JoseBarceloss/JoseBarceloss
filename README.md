@@ -53,7 +53,7 @@
  
 Criei listas para facilitar a navegação: <br>
 <br>
-Back-End 👁‍🗨<br>
+<a href="https://github.com/stars/JoseBarceloss/lists/back-end" target="_blank">Back-End 👁‍🗨</a><br>
 Projeto ⭐<br>
 Exercise 🤓<br>
 Front-End 🖼<br>
