@@ -53,10 +53,10 @@
  
 Criei listas para facilitar a navegação: <br>
 <br>
+<a href="https://github.com/stars/JoseBarceloss/lists/projeto" target="_blank">Projeto ⭐</a><br>
+<a href="https://github.com/stars/JoseBarceloss/lists/front-end" target="_blank">Front-End 🖼</a><br>
 <a href="https://github.com/stars/JoseBarceloss/lists/back-end" target="_blank">Back-End 👁‍🗨</a><br>
-Projeto ⭐<br>
-Exercise 🤓<br>
-Front-End 🖼<br>
+<a href="https://github.com/stars/JoseBarceloss/lists/exercise" target="_blank">Exercise 🤓</a><br>
 <br>
 Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise'; embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.
 
