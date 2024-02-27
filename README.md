@@ -60,7 +60,7 @@ Criei listas para facilitar a navegação: <br>
 <a href="https://github.com/stars/JoseBarceloss/lists/back-end" target="_blank">Back-End 👁‍🗨</a><br>
 <a href="https://github.com/stars/JoseBarceloss/lists/exercise" target="_blank">Exercise 🤓</a><br>
 <br>
-Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise' embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.
+Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise(EX)' embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.
 
 Agradeço novamente por dedicar seu tempo à análise do meu portfólio. Caso tenha alguma dúvida ou precise de mais informações <a href="https://www.linkedin.com/in/jos%C3%A9domingos/" target="_blank">clicar aqui</a> e entre em contato comigo!</h5>
 
