@@ -3,6 +3,7 @@
 <h1 align="left">Hi , I'm Barcelos Freitas</h1>
 
 
+
 # <h3> 🛠  🔭 Hard-Skills </h3>
  - #### Frontend 🖌️
     
