@@ -72,7 +72,7 @@
     <ul style="list-style-type: none; padding-left: 0;">
         <li><a href="https://github.com/stars/JoseBarceloss/lists/projeto" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Projeto ⭐</a></li>
         <li><a href="https://github.com/stars/JoseBarceloss/lists/front-end" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Front-End 🖼</a></li>
-        <li><a href="https://github.com/stars/JoseBarceloss/lists/back-end" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Back-End 🗄️</a></li>
+        <li><a href="https://github.com/stars/JoseBarceloss/lists/back-end" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Back-End 👨‍💻</a></li>
     </ul>
     <p>Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise(EX)', embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.</p>
     <p>Agradeço novamente por dedicar seu tempo à análise do meu portfólio. Se tiver alguma dúvida ou precisar de mais informações, não hesite em <a href="https://www.linkedin.com/in/jos%C3%A9domingos/" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">entrar em contato comigo</a>!</p>
