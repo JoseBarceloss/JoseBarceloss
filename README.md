@@ -66,7 +66,7 @@
 ---
 
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-    <h5 style="font-weight: bold;">Avaliando meu portfólio?</h5>
+    <h3 style="font-weight: bold;"> 💼 Avaliando meu portfólio?</h5>
     <p>Agradeço pela sua atenção. Organizei o meu portfólio para facilitar a sua navegação e visualização dos aspectos específicos do seu interesse.</p>
     <p>Basta <a href="https://github.com/JoseBarceloss?tab=stars" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">clicar aqui</a> ou na estrela ⭐ acima, ao lado de 'Packages', para acessar os meus repositórios favoritos.</p>
     <p>Criei listas para facilitar ainda mais:</p>
@@ -79,7 +79,12 @@
     </ul>
     <p>Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise(EX)', embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.</p>
     <p>Agradeço novamente por dedicar seu tempo à análise do meu portfólio. Se tiver alguma dúvida ou precisar de mais informações, não hesite em <a href="https://www.linkedin.com/in/jos%C3%A9domingos/" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">entrar em contato comigo</a>!</p>
-    <h5 style="color: red; font-weight: bold; margin-top: 20px;">🚨 Aviso: Repositórios com "EX" na frente são repositórios de exercícios 🚨</h5>
+    <h3 style="color: red; font-weight: bold; margin-top: 20px;">🚨 Aviso: Repositórios com "EX" na frente são repositórios de exercícios 🚨</h5>
+</div>
+
+ ---
+ 
+<div>
     <h6 style="font-style: italic; margin-top: 20px;">⚠️ Alguns projetos estão sem estilização devido à intensa carga horária imposta pela Trybe. Com projetos toda semana e aprendizado diário, além de uma rotina de estudos que ultrapassa 8 horas por dia, o foco tem sido na funcionalidade. Assim que concluir meu curso na Trybe, pretendo adicionar a estilização necessária às páginas e READEME.</h6>
 </div>
 
