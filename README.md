@@ -2,7 +2,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile;)](https://git.io/typing-svg)
 <h1 align="left">Hi , I'm Barcelos Freitas</h1>
 
- <img align="right" width="400px" height="750px" src="https://i2.wp.com/i.pinimg.com/originals/76/23/74/7623740221c2d088085ccf5bd1118cc8.gif">   
+ <img align="right" width="400px" height="708px" src="https://i.imgur.com/iLaqUsx.gif">   
 
  <h3> 🛠  🔭 Hard-Skills </h3>
  
@@ -44,6 +44,8 @@
   <img alt="Paloma-Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img alt="Paloma-Linux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img alt="Paloma-Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=557C94">
+
+---
    
 <div align="left" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
