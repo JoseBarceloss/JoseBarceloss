@@ -5,7 +5,7 @@
 <img align="right" width="400px" height="690px" src="https://i.imgur.com/iLaqUsx.gif">   
  <h3> 🛠  🔭 Hard-Skills </h3>
  
- - #### Frontend 🖌️
+ - #### Front-End 🖌️
     
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,7 +16,7 @@
 
  
 
-- #### Backend 👩‍💻
+- #### Back-End 👨‍💻
  ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br>
@@ -71,7 +71,7 @@
     <h4>Criei listas para facilitar ainda mais:</h4>
     <ul style="list-style-type: none; padding-left: 0;">
         <li><a href="https://github.com/stars/JoseBarceloss/lists/projeto" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Projeto ⭐</a></li>
-        <li><a href="https://github.com/stars/JoseBarceloss/lists/front-end" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Front-End 🖼</a></li>
+        <li><a href="https://github.com/stars/JoseBarceloss/lists/front-end" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Front-End 🖌️</a></li>
         <li><a href="https://github.com/stars/JoseBarceloss/lists/back-end" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Back-End 👨‍💻</a></li>
     </ul>
     <p>Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise(EX)', embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.</p>
