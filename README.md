@@ -45,12 +45,13 @@
   <img align="center" alt="Boots" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="ESLint" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
-
   
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <!-- <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+
+---
 
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
     <h5 style="font-weight: bold;">Avaliando meu portfólio?</h5>
@@ -69,3 +70,5 @@
     <h5 style="color: red; font-weight: bold; margin-top: 20px;">🚨 Aviso: Repositórios com "EX" na frente são repositórios de exercícios 🚨</h5>
     <h6 style="font-style: italic; margin-top: 20px;">⚠️ Alguns projetos estão sem estilização devido à intensa carga horária imposta pela Trybe. Com projetos toda semana e aprendizado diário, além de uma rotina de estudos que ultrapassa 8 horas por dia, o foco tem sido na funcionalidade. Assim que concluir meu curso na Trybe, pretendo adicionar a estilização necessária às páginas e READEME.</h6>
 </div>
+
+---
