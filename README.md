@@ -2,7 +2,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile;)](https://git.io/typing-svg)
 <h1 align="left">Hi , I'm Barcelos Freitas</h1>
 
-<img align="right" width="400px" height="690px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/d9nosmp-611156f2-9e7f-47a3-b9f1-ab1f61d71c1b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZDlub3NtcC02MTExNTZmMi05ZTdmLTQ3YTMtYjlmMS1hYjFmNjFkNzFjMWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HJFV_2s5EKaIJl-AuVyZkXpPCfN5ciZgOenBAULcnNY">   
+<img align="right" width="400px" height="690px" src="https://i.pinimg.com/originals/af/d4/42/afd4424e70a24e003c3b8c873f079b8e.gif">   
  <h3> 🛠  🔭 Hard-Skills </h3>
  
  - #### Front-End 🖌️
