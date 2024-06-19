@@ -75,6 +75,8 @@
         <li><a href="https://github.com/stars/JoseBarceloss/lists/back-end" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">Back-End 👨‍💻</a></li>
     </ul>
     <p>Ao selecionar uma dessas opções, você verá apenas o conteúdo desejado. Recomendo explorar os repositórios da categoria 'Exercise(EX)', embora contenham exercícios e tarefas simples, apresentam conceitos interessantes que pude aprender ao longo do tempo.</p>
+    
+ <div>
     <p>Agradeço novamente por dedicar seu tempo à análise do meu portfólio. Se tiver alguma dúvida ou precisar de mais informações, não hesite em <a href="https://www.linkedin.com/in/jos%C3%A9domingos/" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: bold;">entrar em contato comigo</a>!</p>
     <h3 style="color: red; font-weight: bold; margin-top: 20px;">🚨 Aviso: Repositórios com "EX" na frente são repositórios de exercícios 🚨</h5>
 </div>
@@ -86,3 +88,5 @@
 </div>
 
 ---
+
+🚀 Como Navegar no Meu GitHub (tutorial) : https://www.linkedin.com/feed/update/urn:li:activity:7209181377215238144/
